@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (KinectPointCloud.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  app.cpp
+c:\opencv32\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+app.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+app.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+app.cpp(92): warning C4305: 'argument': truncation from 'double' to 'float'
+app.cpp(93): warning C4305: 'argument': truncation from 'double' to 'float'
+app.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+app.cpp(95): warning C4305: 'argument': truncation from 'double' to 'float'
+app.cpp(105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+app.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+app.cpp(107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+app.cpp(112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+app.cpp(112): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(116): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+app.cpp(119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+app.cpp(117): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+app.cpp(171): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  10 of 676 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KinectPointCloud.vcxproj -> C:\Users\zackbam\Documents\Visual Studio 2015\Projects\BowDetectionWithMarkers\x64\Release\KinectInfrared.exe
+  KinectPointCloud.vcxproj -> C:\Users\zackbam\Documents\Visual Studio 2015\Projects\BowDetectionWithMarkers\x64\Release\KinectInfrared.pdb (Full PDB)
