@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (KinectPointCloud.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  app.cpp
+c:\opencv32\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+app.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+app.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+app.cpp(88): warning C4305: 'initializing': truncation from 'double' to 'float'
+app.cpp(112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+app.cpp(113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+app.cpp(121): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+app.cpp(123): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(129): warning C4305: 'initializing': truncation from 'double' to 'float'
+app.cpp(134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+app.cpp(135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+app.cpp(146): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+app.cpp(147): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(149): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+app.cpp(150): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(151): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+app.cpp(152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(153): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(157): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(159): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(161): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(167): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+app.cpp(278): warning C4101: 'x1021': unreferenced local variable
+app.cpp(332): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  9 of 707 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KinectPointCloud.vcxproj -> C:\Users\zackbam\Documents\Visual Studio 2015\Projects\BowDetectionWithMarkers\x64\Release\KinectInfrared.exe
+  KinectPointCloud.vcxproj -> C:\Users\zackbam\Documents\Visual Studio 2015\Projects\BowDetectionWithMarkers\x64\Release\KinectInfrared.pdb (Full PDB)
